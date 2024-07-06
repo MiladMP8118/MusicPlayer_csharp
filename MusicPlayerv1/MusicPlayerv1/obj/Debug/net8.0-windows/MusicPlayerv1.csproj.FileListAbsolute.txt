@@ -1,0 +1,17 @@
+C:\smmp\GitHuby\MusicPlayer_csharp\MusicPlayerv1\MusicPlayerv1\bin\Debug\net8.0-windows\MusicPlayerv1.exe
+C:\smmp\GitHuby\MusicPlayer_csharp\MusicPlayerv1\MusicPlayerv1\bin\Debug\net8.0-windows\MusicPlayerv1.deps.json
+C:\smmp\GitHuby\MusicPlayer_csharp\MusicPlayerv1\MusicPlayerv1\bin\Debug\net8.0-windows\MusicPlayerv1.runtimeconfig.json
+C:\smmp\GitHuby\MusicPlayer_csharp\MusicPlayerv1\MusicPlayerv1\bin\Debug\net8.0-windows\MusicPlayerv1.dll
+C:\smmp\GitHuby\MusicPlayer_csharp\MusicPlayerv1\MusicPlayerv1\bin\Debug\net8.0-windows\MusicPlayerv1.pdb
+C:\smmp\GitHuby\MusicPlayer_csharp\MusicPlayerv1\MusicPlayerv1\obj\Debug\net8.0-windows\MusicPlayerv1.Form1.resources
+C:\smmp\GitHuby\MusicPlayer_csharp\MusicPlayerv1\MusicPlayerv1\obj\Debug\net8.0-windows\MusicPlayerv1.csproj.GenerateResource.cache
+C:\smmp\GitHuby\MusicPlayer_csharp\MusicPlayerv1\MusicPlayerv1\obj\Debug\net8.0-windows\MusicPlayerv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\smmp\GitHuby\MusicPlayer_csharp\MusicPlayerv1\MusicPlayerv1\obj\Debug\net8.0-windows\MusicPlayerv1.AssemblyInfoInputs.cache
+C:\smmp\GitHuby\MusicPlayer_csharp\MusicPlayerv1\MusicPlayerv1\obj\Debug\net8.0-windows\MusicPlayerv1.AssemblyInfo.cs
+C:\smmp\GitHuby\MusicPlayer_csharp\MusicPlayerv1\MusicPlayerv1\obj\Debug\net8.0-windows\MusicPlayerv1.csproj.CoreCompileInputs.cache
+C:\smmp\GitHuby\MusicPlayer_csharp\MusicPlayerv1\MusicPlayerv1\obj\Debug\net8.0-windows\MusicPlayerv1.sourcelink.json
+C:\smmp\GitHuby\MusicPlayer_csharp\MusicPlayerv1\MusicPlayerv1\obj\Debug\net8.0-windows\MusicPlayerv1.dll
+C:\smmp\GitHuby\MusicPlayer_csharp\MusicPlayerv1\MusicPlayerv1\obj\Debug\net8.0-windows\refint\MusicPlayerv1.dll
+C:\smmp\GitHuby\MusicPlayer_csharp\MusicPlayerv1\MusicPlayerv1\obj\Debug\net8.0-windows\MusicPlayerv1.pdb
+C:\smmp\GitHuby\MusicPlayer_csharp\MusicPlayerv1\MusicPlayerv1\obj\Debug\net8.0-windows\MusicPlayerv1.genruntimeconfig.cache
+C:\smmp\GitHuby\MusicPlayer_csharp\MusicPlayerv1\MusicPlayerv1\obj\Debug\net8.0-windows\ref\MusicPlayerv1.dll
