@@ -32,8 +32,8 @@
             listBox1 = new ListBox();
             btnPreview = new Button();
             btnNext = new Button();
-            button2 = new Button();
-            button3 = new Button();
+            btnPlay = new Button();
+            btnStop = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -73,33 +73,33 @@
             btnNext.Text = "Next";
             btnNext.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // btnPlay
             // 
-            button2.Cursor = Cursors.Hand;
-            button2.Location = new Point(332, 124);
-            button2.Name = "button2";
-            button2.Size = new Size(76, 29);
-            button2.TabIndex = 4;
-            button2.Text = "Preview";
-            button2.UseVisualStyleBackColor = true;
+            btnPlay.Cursor = Cursors.Hand;
+            btnPlay.Location = new Point(332, 124);
+            btnPlay.Name = "btnPlay";
+            btnPlay.Size = new Size(76, 29);
+            btnPlay.TabIndex = 4;
+            btnPlay.Text = "Play";
+            btnPlay.UseVisualStyleBackColor = true;
             // 
-            // button3
+            // btnStop
             // 
-            button3.Cursor = Cursors.Hand;
-            button3.Location = new Point(414, 124);
-            button3.Name = "button3";
-            button3.Size = new Size(76, 29);
-            button3.TabIndex = 5;
-            button3.Text = "Preview";
-            button3.UseVisualStyleBackColor = true;
+            btnStop.Cursor = Cursors.Hand;
+            btnStop.Location = new Point(414, 124);
+            btnStop.Name = "btnStop";
+            btnStop.Size = new Size(76, 29);
+            btnStop.TabIndex = 5;
+            btnStop.Text = "Stop";
+            btnStop.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(513, 166);
-            Controls.Add(button3);
-            Controls.Add(button2);
+            Controls.Add(btnStop);
+            Controls.Add(btnPlay);
             Controls.Add(btnNext);
             Controls.Add(btnPreview);
             Controls.Add(listBox1);
@@ -116,7 +116,7 @@
         private ListBox listBox1;
         private Button btnPreview;
         private Button btnNext;
-        private Button button2;
-        private Button button3;
+        private Button btnPlay;
+        private Button btnStop;
     }
 }
