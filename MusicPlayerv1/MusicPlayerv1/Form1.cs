@@ -1,3 +1,4 @@
+using WMPLib;
 namespace MusicPlayerv1
 {
     public partial class Form1 : Form
