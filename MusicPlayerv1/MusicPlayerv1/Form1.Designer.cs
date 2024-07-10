@@ -93,6 +93,7 @@
             btnPlay.TabIndex = 4;
             btnPlay.Text = "Play";
             btnPlay.UseVisualStyleBackColor = true;
+            btnPlay.Click += btnPlay_Click;
             // 
             // btnStop
             // 
@@ -105,6 +106,7 @@
             btnStop.TabIndex = 5;
             btnStop.Text = "Stop";
             btnStop.UseVisualStyleBackColor = true;
+            btnStop.Click += btnStop_Click;
             // 
             // btnBrowse
             // 
@@ -117,6 +119,7 @@
             btnBrowse.TabIndex = 6;
             btnBrowse.Text = "Browse";
             btnBrowse.UseVisualStyleBackColor = true;
+            btnBrowse.Click += btnBrowse_Click;
             // 
             // progressBar1
             // 
