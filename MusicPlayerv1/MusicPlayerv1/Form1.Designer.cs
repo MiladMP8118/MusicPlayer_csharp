@@ -69,6 +69,7 @@
             btnPreview.TabIndex = 2;
             btnPreview.Text = "Preview";
             btnPreview.UseVisualStyleBackColor = true;
+            btnPreview.Click += btnPreview_Click;
             // 
             // btnNext
             // 
@@ -81,6 +82,7 @@
             btnNext.TabIndex = 3;
             btnNext.Text = "Next";
             btnNext.UseVisualStyleBackColor = true;
+            btnNext.Click += btnNext_Click;
             // 
             // btnPlay
             // 
